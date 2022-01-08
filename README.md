@@ -20,11 +20,17 @@ Yes, and it's freshly released!https://rextoken.medium.com/rex-project-timeline-
 Here are some highlights:
 
 REX :: Outlook
+
 🟨 2022 :: ADAPT and LAUNCH on other blockchains
+
 🟨 2022 :: INTRODUCE NFT BOOSTS
+
 🟨 2022 :: INTRODUCE ADVANCED ECOSYSTEM
+
 🟨 2023 :: INTRODUCE REXAVERSE
+
 🟨 2024 :: RELEASE FULL ECOSYSTEM ON REX BLOCKCHAIN
+
 🟨 2025 :: PRIVACY MODE
 
 **4) Will there be an Airdrop of old Rex tokens for users that held it before the snapshot?**
