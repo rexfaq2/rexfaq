@@ -80,11 +80,11 @@ This is a great question, because it gives an opportunity to show how internatio
 
 Crypto investors tend to look for rapid growth through increased value of the token that belongs to a certain project. They look for price. Price will attract them. But price alone cannot sustain itself, as we are nowadays very used to see tokens that on day 1 make a 1000% and on day 2 gets a 900% correction. Rex tries to balance this environment with very strong long term incentives. After all, Rex is a project entirely based on stakes (the fiat jargon for this type of investment is "certificate of deposit") and this means that once you stake your token, you lock it for a certain period of time. If you breach the contract, it strongly penalizes you. Rex values time. Time preference over other preferences (like leverage, like pump & dump etc.). Irrevocable stakes benefits, for example, are something of this sort. 
 
-**9) How does one achieve Ultra Rexican Status in Rex 2.0? Are the benefits already disclosed?**
+**10) How does one achieve Ultra Rexican Status in Rex 2.0? Are the benefits already disclosed?**
 
 The user must reach 10,000 BUSD with referal bonuses coming from auctions and withdraw it in a single transaction. As in today, the benefits for Ultra Rexican Status in 2.0 are not yet disclosed. 
 
-**10) What are the current TREX perks in REX 2.0?**
+**11) What are the current TREX perks in REX 2.0?**
 
 An address holding 1 or more TREX gets:
 
