@@ -1,12 +1,12 @@
 Hi there 👋
 
-A thousand or more questions on REX token answered by the community (in progress) https://rex-token.com/start or https://classic.rex-token.com/ for 1.0
+_A thousand or more questions on REX token answered by the community (in progress) https://rex-token.com/start or https://classic.rex-token.com/ for 1.0_
 
-THIS FAQ IS UPDATED WITH REX 2.0 WHITEPAPER NEW INFORMATION
+_THIS FAQ IS UPDATED WITH REX 2.0 WHITEPAPER NEW INFORMATION_
 
 The ETA for REX 2.0 deployment is February 2022.
 
-**1) What is the date of birth of Rex Token? And what is the date of birth of the new Rex Token?
+**1) What is the date of birth of Rex Token? And what is the date of birth of the new Rex Token?**
 
 REX was deployed (and ownership renounced) on Binance Smart Chain on June 20, 2021. Rex 2.0 is set for deployment currently in February 2022. This date is subject to changes, since audits and other tasks need to be entirely completed for the launch to happen. 
 
