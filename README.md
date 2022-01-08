@@ -1,11 +1,12 @@
 Hi there 👋
-A thousand or more questions on REX token answered by the community (in progress) https://rex-token.com/start or c
+
+A thousand or more questions on REX token answered by the community (in progress) https://rex-token.com/start or https://classic.rex-token.com/ for 1.0
 
 THIS FAQ IS UPDATED WITH REX 2.0 WHITEPAPER NEW INFORMATION
 
 The ETA for REX 2.0 deployment is February 2022.
 
-**1) What is the date of birth of Rex Token? And what is the date of birth of the new redeployment?
+**1) What is the date of birth of Rex Token? And what is the date of birth of the new Rex Token?
 
 REX was deployed (and ownership renounced) on Binance Smart Chain on June 20, 2021. Rex 2.0 is set for deployment currently in February 2022. This date is subject to changes, since audits and other tasks need to be entirely completed for the launch to happen. 
 
@@ -35,58 +36,67 @@ REX :: Outlook
 
 **4) Will there be an Airdrop of old Rex tokens for users that held it before the snapshot?**
 
-Yes, and there will be two options for claiming it: Claim Liquid Rex OR Claim Rex as a stake. The second one provides bonuses as explained in the Whitepaper: 
+Yes, and there will be two options for claiming it: Claim Liquid Rex **OR** Claim Rex as a stake. The second one provides bonuses as explained in the Whitepaper: 
 
 "When claimed as a stake, the stake’s duration must be chosen to be between 30 and 3653 days. Bonus calculation: When staking for 30 days or more, the address receives a bonus of 10% more REX tokens added to the stake’s principal. When staking for 600 days or more, the address receives a bonus of 50% more REX tokens added to the stake’s principal. When staking between 30 and 600 days, the bonus calculation is linear. When staking for more than 600 days, the address receives the maximum bonus of 50% more
 REX tokens. **⚠ The REX STAKE created from the airdrop is an irrevocable stake.**
 
-**5) 
+The claimable airdrop will be available during the entire Auction Phase of Rex 2.0. 
+
+**5) Will MREX Token continue in Rex 2.0 with the same contract address and with the same features?**
+
+Yes, and with new features. The scraping function is now part of REX design, and MREX isn't neeeded in order to do it. See section 6.3 of the new Whitepaper: "Withdrawing Stake Interest". It can be done many times, but there are cons and pros to it. 
+
+Here are the current features of MREX: 
+
+1. Referral rewards: Earn up to 5% of the BUSD sent to auction by a referee (1% per MREX) 🔥🔥🔥
+2. Auctions: Up to 10% more REX from auctions (2% per MREX) 🔥🔥🔥
+3. REX stake DEX: No buyers fee (1% of the stake’s price) when holding MREX 🔥🔥
+
+There are only 10.000 MREX available. And this quantity will never change, since the contract is immutable. MREX could go up in value for the same reason. You can still buy MREX as in today. Here is the contract address: https://bscscan.com/token/0x76837D56D1105bb493CDDbEFeDDf136e7c34f0c4. The last MREX traded went for ~120 USD and it can be bought on pancakeswap.finance by adding the contract address (just the string) on one of the sections in exchange section. It is currently paired either with BNB or BUSD. 
+
+
+**6) Does holding more MREX makes me receive more % of Rex and BUSD from the auctions?**
+
+Yes, the bonus goes up until 5 MREX are held in the same wallet. 
+
+
+@baldyboy78
+**7) "Is rex just a copy cat of hex? But with a weaker community?"**
+
+This is a very important question. First, what would be the point of a copycat? If this was the case, why not use HEX instead? There are so many incentives to go for REX right now. We can number just a few: a fresh opportunity to get in early! A completely different chain, with fees a thousand times lower and a whole set of users that potentiatlly will never join HEX, joining REX instead, because they feel late for the first one. Unique features that were thought throughly as developments to HEX (withdrawing interest, moving, selling and buying of stakes!). It's not a weaker community at all, only a smaller one - for now!. And this won't be the case in a very short period of time, since there are no competitors for REX in BSC. 
+
+Last but not least: If you're so fanatic in criticizing REX because it's "a copy" of HEX, you can just extend this criticism to every single successful enterprise on the market (crypto or not). Ethereum was born out of bitcoin. Binance Chain is a fork (also, in numerous aspects, a copy) of Ethereum Chain! AVAX, Fantom Chain (forks of Ethereum). In games, DOTA was once the most sucessfull MOBA, today LoL holds the largest userbase in the world. The examples are everywhere. Uniswap? Sushiswap. Pancakeswap? Spookyswap. All doing very well, with or without sharing chains with each other. 
+
+@KiyokoSumaru: 
+**8)"Many people want to learn about your project but they have a problem with English, so do you plan to spread awareness about your project in different countries where English is not widely known? Do you have a marketing strategy to develop different communities?**
+
+This is a great question, because it gives an opportunity to show how international Rex is right now. All Rex admins, for example, comes from different parts of the world. There are virtually no more than 2 from the same country of origin. Admins are from India, Russia, Italy, US, Brazil, Germany, UK, China, Spain and so forth. Rex is by design a cross continental endeavour. So we are preparing right now a huge volume of translations to at least 5 languages, just to start. You can check some of our initial translations of this FAQ here when the launch happens. 
+
+@KiyokoSumaru: 
+
+**9)"Currently most investors only care about profits at the moment but ignore the long-term benefits. So can you give them some advice why they should buy and hold this token/coin in the long term?"**
+
+Crypto investors tend to look for rapid growth through increased value of the token that belongs to a certain project. They look for price. Price will attract them. But price alone cannot sustain itself, as we are nowadays very used to see tokens that on day 1 make a 1000% and on day 2 gets a 900% correction. Rex tries to balance this environment with very strong long term incentives. After all, Rex is a project entirely based on stakes (the fiat jargon for this type of investment is "certificate of deposit") and this means that once you stake your token, you lock it for a certain period of time. If you breach the contract, it strongly penalizes you. Rex values time. Time preference over other preferences (like leverage, like pump & dump etc.). Irrevocable stakes benefits, for example, are something of this sort. 
+
+**9) How does one achieve Ultra Rexican Status in Rex 2.0? Are the benefits already disclosed?**
+
+The user must reach 10,000 BUSD with referal bonuses coming from auctions and withdraw it in a single transaction. As in today, the benefits for Ultra Rexican Status in 2.0 are not yet disclosed. 
+
+**10) What are the current TREX perks in REX 2.0?**
+
+An address holding 1 or more TREX gets:
+
+1. Staking: 33.3% more SHARES when creating a stake
+2. Staking: Ability to create irrevocable stakes
+3. Auctions: 50% higher limits (+2,500 BUSD) on purchases. 
 
 
 
 
 
-                                                     
-18) Will MREX Token continue in Rex 2.0 with the same contract address? 
-Yes, and with new features. There are only 10.000 MREX available in the whole world. And this quantity will never change, since the contract is immutable. MREX could go up in value for the same reason. You can still buy MREX as in today. Here is the contract address: https://bscscan.com/token/0x76837D56D1105bb493CDDbEFeDDf136e7c34f0c4. The last MREX traded went for ~120 USD and it can be bought on pancakeswap.finance by adding the contract address (just the string) on one of the sections in exchange section.
 
-19) Does holding more MREX makes me receive more % of bnb from the auctions ?
 
-No. Only for referals reward. 1MREX = 4% BNB reward. 20 MREX = 6% BNB reward. So the amount varies from 4% to 6%.
 
-20) Can someone win BPD multiple times?
 
-Yes, up until the end of the auction. After, only wallets that didn't win become eligible for the BNB treasury that works in a similar way for BPDs.
-
-21) BPD goes for?
-
-Big pay days.
-
-22) Does BPD appears on the dashboard only if win? And If I don’t claim by the time the next auction starts do I lose it?
-
-Yes. No.
-
-23) How do I achieve ULTRA REXICAN status?
-
-By accumulating 25 bnb or more via referal rewards. In order to receive BNB for referal rewards (plus REX) your wallet needs to hold atleast one MREX.
-
-24) Does it makes sense that in one BPD day all wallets being rewarded are new wallets and in another day all of them are old wallets?
-
-The first address is drawn randomly, then it's given out sequentially. This is the most efficient way to do it on the blockchain as Thomas has explained a long time ago. So all new wallets just means the first one picked is very new. Courtesy of @homuraaaaaa: https://t.me/c/1443915360/10209
-
-19) Why do we need Mrex to scrape the interest? How much do we need it?
-
-Part of REX project game theory and tokenomics comes from MREX and TREX features. Think of them like perks works in a game. Since day zero to eternity, there will be only 10.000 MREX and 1000 TREX, so they are scarce and valuable. This is because their features accelerates your earnings, overall. Since scrape is a feature that needs some kind of control, otherwise a stake (with a timelock) wouldn't make sense, MREX is needed to enable it. You just need one MREX to enable scraping.
-
-25) Are there other Telegram groups for REX?20) Are there other Telegram groups for REX?
-
-Yes! 🇷🇺 Russian : https://t.me/rex_russia 🇨🇳 Chinese : https://t.me/rex_china 🇮🇹 Italian : https://t.me/rex_italia 🇹🇷 Turkey : https://t.me/rex_turk 🇮🇳 Indian : t.me/rex_india 🏴CA Quebec : https://t.me/Rex_Quebec 🇵🇱 Polish : https://t.me/rex_pl 🇯🇵 Japanese : https://t.me/rexjapan 🇲🇾 Malesian : https://t.me/rex_Malaysia_Indonesia 🇵🇭 philippines : https://t.me/joinchat/uiLxDGw0uW1iN2Q9
-
-25) "It’s to my understanding that if you scrape interest, it lowers your over all shares as well. Does it lower it to the current share rate at the time of the scrape?"
-
-Any scraped interest that goes above the amount of your principal DESTROYS your interest rate, permanently. So any 100% plus interest scrape will make your stake a 0% interest stake afterwards. The shares are dilluted in benefit of all other stakes.
-
-26) Why do we need Mrex to scrape the interest ? How much do we need it ?26) Why do we need Mrex to scrape the interest? How much do we need it?
-
-Part of REX project game theory and tokenomics comes from MREX and TREX features. Think of them like perks works in a game. Since day zero to eternity, there will be only 10.000 MREX and 1000 TREX, so they are scarce and valuable. This is because their features accelerates your earnings, overall. Since scrape is a feature that needs some kind of control, otherwise a stake (with a timelock) wouldn't make sense, MREX is needed to enable it. You just need one MREX to enable scraping.
 
