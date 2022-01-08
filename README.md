@@ -2,12 +2,9 @@ Hi there 👋
 
 _A thousand or more questions on REX token answered by the community (in progress)_
 
- _https://rex-token.com/start 
-_or https://classic.rex-token.com/ for 1.0_
-
 _THIS FAQ IS UPDATED WITH REX 2.0 WHITEPAPER NEW INFORMATION_
 
-
+https://rex-token.com/
 
 
 **1) What is the date of birth of Rex Token? And what is the date of birth of the new Rex Token?**
