@@ -46,7 +46,7 @@ The claimable airdrop will be available during the entire Auction Phase of Rex 2
 
 **5) Will MREX Token continue in Rex 2.0 with the same contract address and with the same features?**
 
-Yes, and with new features. The scraping function is now part of REX design, and MREX isn't neeeded in order to do it. See section 6.3 of the new Whitepaper: "Withdrawing Stake Interest". It can be done many times, but there are cons and pros to it. 
+Yes, but with new features. The scraping function is now part of REX design, and MREX isn't neeeded in order to do it. See section 6.3 of the new Whitepaper: "Withdrawing Stake Interest". It can be done many times, but there are cons and pros to do it in order to maintain tokenomics sustainability. 
 
 Here are the current features of MREX: 
 
@@ -54,7 +54,7 @@ Here are the current features of MREX:
 2. Auctions: Up to 10% more REX from auctions (2% per MREX) 🔥🔥🔥
 3. REX stake DEX: No buyers fee (1% of the stake’s price) when holding MREX 🔥🔥
 
-There are only 10.000 MREX available. And this quantity will never change, since the contract is immutable. MREX could go up in value for the same reason. You can still buy MREX as in today. Here is the contract address: https://bscscan.com/token/0x76837D56D1105bb493CDDbEFeDDf136e7c34f0c4. The last MREX traded went for ~120 USD and it can be bought on pancakeswap.finance by adding the contract address (just the string) on one of the sections in exchange section. It is currently paired either with BNB or BUSD. 
+There are only 10.000 MREX available and this quantity will never change, since the contract is immutable. MREX could go up in value for the same reason. You can still buy MREX as in today. Here is the contract address: https://bscscan.com/token/0x76837D56D1105bb493CDDbEFeDDf136e7c34f0c4. The last MREX traded went for ~120 USD and it can be bought on pancakeswap.finance by adding the contract address (just the string) on one of the sections in exchange section. It is currently paired either with BNB or BUSD. 
 
 
 **6) Does holding more MREX makes me receive more % of Rex and BUSD from the auctions?**
