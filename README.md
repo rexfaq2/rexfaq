@@ -17,7 +17,7 @@ You can find them pinned on the telegram official group: https://t.me/newrextoke
 
 **3) Is there an official Roadmap?**
 
-Yes, and it's freshly released!https://rextoken.medium.com/rex-project-timeline-a8f01f044831
+Yes, and it's freshly released! https://rextoken.medium.com/rex-project-timeline-a8f01f044831
 
 Here are some highlights:
 
