@@ -61,43 +61,60 @@ There are only 10.000 MREX available and this quantity will never change, since 
 
 Yes, the bonus goes up until 5 MREX are held in the same wallet. 
 
+**7) How does one achieve Ultra Rexican Status in Rex 2.0? Are the benefits already disclosed?**
+
+The user must reach 10,000 BUSD with referal bonuses coming from auctions and withdraw it in a single transaction. As in today, the benefits for Ultra Rexican Status in 2.0 are not yet disclosed. 
+
+**8) What are the current TREX perks in REX 2.0?**
+
+An address holding 1 or more TREX gets:
+
+1. Staking: 33.3% more SHARES when creating a stake
+2. Staking: Ability to create irrevocable stakes
+3. Auctions: 50% higher limits (+2,500 BUSD) on purchases via daily auctions. 
+
+**9) What is the current status of The Auction Phase?**
+
+Rex has an auction phase that incentivizes user engagement for the long term. On Rex 2.0 the auction will last 222 days and will benefit users that choose to purchase Rex through it in many ways. Random Personal Big Pay Days being the most desired benefit. Buying Rex through auction provides liquidity to the project, makes your wallet eligible for winning all the amount you invested back (more than once!) and, at the beginning, can lead to a higher ratio of Rex/BUSD purchases. Day one has the biggest ratio, as it is shown in the whitepaper (section 7.2, page 24). 
+
+Remember that now there are two claiming options of the Rex purchase in auction: Claim Liquid Rex OR Claim as a stake. Only the second option makes your wallet eligible for Big Pay Days, and the calculation of the total winning amount corresponds to Rex claimed as a stake - only! This doesn't mean that claiming liquid Rex turns your wallet uneligible. You just need one claim as a stake through auction to be eligible for BPDs. The amount of BUSD winnable is conditioned to the total amount of REX purchased AND claimed as a stake, in BUSD value.
+
+**10) What is the current status of Random Big Personal Pay days in Rex 2.0?**
+
+It's still pretty much the same. You can win more than once. If you never win, your wallet is eligibile for the treasury (post auction phase) pay day. When you do win, chances are that you get all the BUSD you invested back in a single take. Or you split these rewards with the number of wallets that won BPD that day. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      __Community questions that went famous at the time__
+
 
 @baldyboy78
-**7) "Is rex just a copy cat of hex? But with a weaker community?"**
+**"Is rex just a copy cat of hex? But with a weaker community?"**
 
 This is a very important question. First, what would be the point of a copycat? If this was the case, why not use HEX instead? There are so many incentives to go for REX right now. We can number just a few: a fresh opportunity to get in early! A completely different chain, with fees a thousand times lower and a whole set of users that potentiatlly will never join HEX, joining REX instead, because they feel late for the first one. Unique features that were thought throughly as developments to HEX (withdrawing interest, moving, selling and buying of stakes!). It's not a weaker community at all, only a smaller one - for now!. And this won't be the case in a very short period of time, since there are no competitors for REX in BSC. 
 
 Last but not least: If you're so fanatic in criticizing REX because it's "a copy" of HEX, you can just extend this criticism to every single successful enterprise on the market (crypto or not). Ethereum was born out of bitcoin. Binance Chain is a fork (also, in numerous aspects, a copy) of Ethereum Chain! AVAX, Fantom Chain (forks of Ethereum). In games, DOTA was once the most sucessfull MOBA, today LoL holds the largest userbase in the world. The examples are everywhere. Uniswap? Sushiswap. Pancakeswap? Spookyswap. All doing very well, with or without sharing chains with each other. 
 
 @KiyokoSumaru: 
-**8)"Many people want to learn about your project but they have a problem with English, so do you plan to spread awareness about your project in different countries where English is not widely known? Do you have a marketing strategy to develop different communities?**
+**"Many people want to learn about your project but they have a problem with English, so do you plan to spread awareness about your project in different countries where English is not widely known? Do you have a marketing strategy to develop different communities?**
 
 This is a great question, because it gives an opportunity to show how international Rex is right now. All Rex admins, for example, comes from different parts of the world. There are virtually no more than 2 from the same country of origin. Admins are from India, Russia, Italy, US, Brazil, Germany, UK, China, Spain and so forth. Rex is by design a cross continental endeavour. So we are preparing right now a huge volume of translations to at least 5 languages, just to start. You can check some of our initial translations of this FAQ here when the launch happens. 
 
 @KiyokoSumaru: 
 
-**9)"Currently most investors only care about profits at the moment but ignore the long-term benefits. So can you give them some advice why they should buy and hold this token/coin in the long term?"**
+**"Currently most investors only care about profits at the moment but ignore the long-term benefits. So can you give them some advice why they should buy and hold this token/coin in the long term?"**
 
 Crypto investors tend to look for rapid growth through increased value of the token that belongs to a certain project. They look for price. Price will attract them. But price alone cannot sustain itself, as we are nowadays very used to see tokens that on day 1 make a 1000% and on day 2 gets a 900% correction. Rex tries to balance this environment with very strong long term incentives. After all, Rex is a project entirely based on stakes (the fiat jargon for this type of investment is "certificate of deposit") and this means that once you stake your token, you lock it for a certain period of time. If you breach the contract, it strongly penalizes you. Rex values time. Time preference over other preferences (like leverage, like pump & dump etc.). Irrevocable stakes benefits, for example, are something of this sort. 
-
-**10) How does one achieve Ultra Rexican Status in Rex 2.0? Are the benefits already disclosed?**
-
-The user must reach 10,000 BUSD with referal bonuses coming from auctions and withdraw it in a single transaction. As in today, the benefits for Ultra Rexican Status in 2.0 are not yet disclosed. 
-
-**11) What are the current TREX perks in REX 2.0?**
-
-An address holding 1 or more TREX gets:
-
-1. Staking: 33.3% more SHARES when creating a stake
-2. Staking: Ability to create irrevocable stakes
-3. Auctions: 50% higher limits (+2,500 BUSD) on purchases. 
-
-
-
-
-
-
-
-
-
 
