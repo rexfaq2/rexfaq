@@ -77,13 +77,27 @@ An address holding 1 or more TREX gets:
 
 Rex has an auction phase that incentivizes user engagement for the long term. On Rex 2.0 the auction will last 222 days and will benefit users that choose to purchase Rex through it in many ways. Random Personal Big Pay Days being the most desired benefit. Buying Rex through auction provides liquidity to the project, makes your wallet eligible for winning all the amount you invested back (more than once!) and, at the beginning, can lead to a higher ratio of Rex/BUSD purchases. Day one has the biggest ratio, as it is shown in the whitepaper (section 7.2, page 24). 
 
-Remember that now there are two claiming options of the Rex purchase in auction: Claim Liquid Rex OR Claim as a stake. Only the second option makes your wallet eligible for Big Pay Days, and the calculation of the total winning amount corresponds to Rex claimed as a stake - only! This doesn't mean that claiming liquid Rex turns your wallet uneligible. You just need one claim as a stake through auction to be eligible for BPDs. The amount of BUSD winnable is conditioned to the total amount of REX purchased AND claimed as a stake, in BUSD value.
+Remember that now there are two claiming options of the Rex purchase in auction: Claim Liquid Rex OR Claim as a stake. Only the second option makes your wallet eligible for Big Pay Days. This means that a wallet which claims liquid Rex becomes ineligible and is permanently excluded from any future Big Pay Days from the date of the liquid claim onwards. The amount of BUSD winnable is conditioned to the total amount of REX purchased AND claimed as a stake, in BUSD value.
+
 
 **10) What is the current status of Random Big Personal Pay days in Rex 2.0?**
 
 It's still pretty much the same. You can win more than once. If you never win, your wallet is eligibile for the treasury (post auction phase) pay day. When you do win, chances are that you get all the BUSD you invested back in a single take. Or you split these rewards with the number of wallets that won BPD that day. 
 
 
+@Cameron Claridge 
+**11) "I have been away for a while. I do not remember what I have to do with my REX that I bought before 12/Oct/2021"?**
+
+The only thing you need to do is to wait for the airdrop that will arrive directly in rex-token.com website (while you're connected with your Metamask wallet). Once connected with it, you'll have the option to claim your airdropped REX as a stake, or liquid. The explanations for both pros and cons of each of those decisions are on the whitepaper.
+
+@Hamxa
+**12) "Please someone do guide me I have rex tokens in trust wallet so what am I suppose to do I have to convert it to 2.0"?**
+
+There aren't any type of conversions of Rex 1.0 to Rex 2.0. The only connection between both is the airdrop. This FAQ won't address directly any type of mathematical formula concerning REX, since the topic is too difficult to put in simple terms - and words! But there is a task force lead by a rexican (@rexqz) that is dealing directly with the fair distribution of REX in the airdrop, and it takes into account several criteria. 
+
+@axionaxioff
+
+Hi all. Not been here for a while. How are the audits coming on ? Any bugs founds from testnet ?
 
 
 
