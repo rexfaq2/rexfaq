@@ -86,18 +86,38 @@ It's still pretty much the same. You can win more than once. If you never win, y
 
 
 @Cameron Claridge 
+
 **11) "I have been away for a while. I do not remember what I have to do with my REX that I bought before 12/Oct/2021"?**
 
 The only thing you need to do is to wait for the airdrop that will arrive directly in rex-token.com website (while you're connected with your Metamask wallet). Once connected with it, you'll have the option to claim your airdropped REX as a stake, or liquid. The explanations for both pros and cons of each of those decisions are on the whitepaper.
 
 @Hamxa
+
 **12) "Please someone do guide me I have rex tokens in trust wallet so what am I suppose to do I have to convert it to 2.0"?**
 
 There aren't any type of conversions of Rex 1.0 to Rex 2.0. The only connection between both is the airdrop. This FAQ won't address directly any type of mathematical formula concerning REX, since the topic is too difficult to put in simple terms - and words! But there is a task force lead by a rexican (@rexqz) that is dealing directly with the fair distribution of REX in the airdrop, and it takes into account several criteria. 
 
 @axionaxioff
 
-Hi all. Not been here for a while. How are the audits coming on ? Any bugs founds from testnet ?
+**13) "Hi all. Not been here for a while. How are the audits coming on? Any bugs founds from testnet?**
+
+The audits are completely separate from the testnet bug findings and other trials. They belong to third party enterprises focused on... audits. Testnet is dependable on the community feedback and, mostly, the developers work. Currently there's been constant reports of minor bugs on the testnet in the telegram REX 2.0 official channel. They are being addressed as the testnet moves forward. Everyone is invited to join it and collaborate. Remember that a strong community is one of the main things that makes a token like REX sucessfull. So engagement is crucial. There are many rexicans doing voluntary or ocasionally paid work for REX. You can talk with the developer on telegram (@Thomas_REX_Roth) about it, he's very openminded and acessible. Besides, he acknowledges the importance of community endeavours all the time. 
+
+@Morpheus
+
+**14) "Hello friends! I have a question about sending Trex from one wallet to another. When I send it, the transaction is successful and it reports in my wallet that they have reduced Trex by 1 time. The problem is that in the other wallet (the recipient) I do not receive it and my balance value Trex is 0. Can you tell me what can be the reason? 🙂"**
+
+Several confusions can be made while dealing with testnet and contract addresses in between mainnet and testnet. Old TREX contract doesn't correspond in any sense to REX 2.0 (mainnet and testnet whatsoever) TREX contract. At the same time, MREX contract does. Users also need to check all the time if they're in BSC testnet on Metamask while changing wallets and making transactions (like sending a TREX). 
+
+
+
+
+
+
+
+
+
+
 
 
 
