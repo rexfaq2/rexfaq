@@ -109,46 +109,24 @@ The audits are completely separate from the testnet bug findings and other trial
 
 Several confusions can be made while dealing with testnet and contract addresses in between mainnet and testnet. Old TREX contract doesn't correspond in any sense to REX 2.0 (mainnet and testnet whatsoever) TREX contract. At the same time, MREX contract does. Users also need to check all the time if they're in BSC testnet on Metamask while changing wallets and making transactions (like sending a TREX). 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                      __Community questions that went famous at the time__
-
-
 @baldyboy78
-**"Is rex just a copy cat of hex? But with a weaker community?"**
+**15)"Is rex just a copy cat of hex? But with a weaker community?"**
 
 This is a very important question. First, what would be the point of a copycat? If this was the case, why not use HEX instead? There are so many incentives to go for REX right now. We can number just a few: a fresh opportunity to get in early! A completely different chain, with fees a thousand times lower and a whole set of users that potentiatlly will never join HEX, joining REX instead, because they feel late for the first one. Unique features that were thought throughly as developments to HEX (withdrawing interest, moving, selling and buying of stakes!). It's not a weaker community at all, only a smaller one - for now!. And this won't be the case in a very short period of time, since there are no competitors for REX in BSC. 
 
 Last but not least: If you're so fanatic in criticizing REX because it's "a copy" of HEX, you can just extend this criticism to every single successful enterprise on the market (crypto or not). Ethereum was born out of bitcoin. Binance Chain is a fork (also, in numerous aspects, a copy) of Ethereum Chain! AVAX, Fantom Chain (forks of Ethereum). In games, DOTA was once the most sucessfull MOBA, today LoL holds the largest userbase in the world. The examples are everywhere. Uniswap? Sushiswap. Pancakeswap? Spookyswap. All doing very well, with or without sharing chains with each other. 
 
-@KiyokoSumaru: 
-**"Many people want to learn about your project but they have a problem with English, so do you plan to spread awareness about your project in different countries where English is not widely known? Do you have a marketing strategy to develop different communities?**
+@KiyokoSumaru
+
+**16) "Many people want to learn about your project but they have a problem with English, so do you plan to spread awareness about your project in different countries where English is not widely known? Do you have a marketing strategy to develop different communities?**
 
 This is a great question, because it gives an opportunity to show how international Rex is right now. All Rex admins, for example, comes from different parts of the world. There are virtually no more than 2 from the same country of origin. Admins are from India, Russia, Italy, US, Brazil, Germany, UK, China, Spain and so forth. Rex is by design a cross continental endeavour. So we are preparing right now a huge volume of translations to at least 5 languages, just to start. You can check some of our initial translations of this FAQ here when the launch happens. 
 
 @KiyokoSumaru: 
 
-**"Currently most investors only care about profits at the moment but ignore the long-term benefits. So can you give them some advice why they should buy and hold this token/coin in the long term?"**
+**17) "Currently most investors only care about profits at the moment but ignore the long-term benefits. So can you give them some advice why they should buy and hold this token/coin in the long term?"**
 
 Crypto investors tend to look for rapid growth through increased value of the token that belongs to a certain project. They look for price. Price will attract them. But price alone cannot sustain itself, as we are nowadays very used to see tokens that on day 1 make a 1000% and on day 2 gets a 900% correction. Rex tries to balance this environment with very strong long term incentives. After all, Rex is a project entirely based on stakes (the fiat jargon for this type of investment is "certificate of deposit") and this means that once you stake your token, you lock it for a certain period of time. If you breach the contract, it strongly penalizes you. Rex values time. Time preference over other preferences (like leverage, like pump & dump etc.). Irrevocable stakes benefits, for example, are something of this sort. 
+
+
 
