@@ -128,5 +128,16 @@ This is a great question, because it gives an opportunity to show how internatio
 
 Crypto investors tend to look for rapid growth through increased value of the token that belongs to a certain project. They look for price. Price will attract them. But price alone cannot sustain itself, as we are nowadays very used to see tokens that on day 1 make a 1000% and on day 2 gets a 900% correction. Rex tries to balance this environment with very strong long term incentives. After all, Rex is a project entirely based on stakes (the fiat jargon for this type of investment is "certificate of deposit") and this means that once you stake your token, you lock it for a certain period of time. If you breach the contract, it strongly penalizes you. Rex values time. Time preference over other preferences (like leverage, like pump & dump etc.). Irrevocable stakes benefits, for example, are something of this sort. 
 
+@SacAddis
+
+**18)  "When we become multi chain, will each chain has its on MREX or the initial 10k MREX will be utilized across all chains?"**
+
+Good question. The actual MREX contract sits on Binance Smart Chain. It cannot be used outside of it, that is, in other blockchain. So a fork of the current contract is necessary, and multiple MREX contracts will sit on different blockchains, although they will have the exactly same functions. 
+
+**19) "Does anyone know what the direct-stake bonus? as opposed to just claiming liquid rex?"
+
+This FAQ won't address mathematical formulae, you should read the calculations in the Whitepaper section 8. And this question do not specify if it's about the airdrop direct-stake bonus or the auction direct-stake bonus. Those are different things and both can be answered on the Whitepaper. 
+
+
 
 
